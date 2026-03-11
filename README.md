@@ -21,7 +21,7 @@ By analysing Kantar Worldpanel single-source data, we identified three invisible
 ## 🖼️ Portfolio Showcase ##
 | Focus Area | Description | Key Executive Insights |
 | --- | --- | --- |
-| `Project Objective` | | **The "One Question"**: Defining the objective to manage price increases while protecting prestige loyalty. |
+| `Project Objective` | ![Objective](/images/Slide2.jpeg) | **The "One Question"**: Defining the objective to manage price increases while protecting prestige loyalty. |
 | `Traction Centre` |  ![Objective](/images/Slide5.jpeg)  | **Market Shift**: Identifying that "High-Efficacy Creams" are replacing Serums as the primary recruitment driver. |
 | `Competitor Threat` | ![Competitor Threat](/images/Slide7.jpeg) ![Growth Attribution](/images/Slide17.jpeg) | **The Rise of Local Rivals**: Mapping the rapid growth of "Efficacy-first" brands like Proya and QuadHA (+120% growth). |
 | `Outflow Analysis` | ![Outflow Analysis](/images/Slide16.jpeg) | **The "Say-Do" Gap**: Visualising the 35% of buyers who say they love the brand but do switch to mass competitors. |
@@ -29,7 +29,7 @@ By analysing Kantar Worldpanel single-source data, we identified three invisible
 | `Price Elasticity` | ![Price Elasticity](/images/Slide23.jpeg) ![Recovery Roadmap](/images/Slide27.jpeg) | **Optimal Pricing**: Identifying the 960元 "Sweet Spot" to maximise revenue without catastrophic volume loss. |
 | `Promotion Habits` | ![Promotion Habits](/images/Slide25.jpeg) ![Recovery Roadmap](/images/Slide26.jpeg) | **The 50mL Sweet Spot**: Mathematically proving that the 50mL SKU is the most efficent driver of long-term loyalty. |
 | `The "New Matrix"` | ![The "New Matrix"](/images/Slide18.jpeg) ![Recovery Roadmap](/images/Slide19.jpeg) | **Strategic Pivot**: Moving the narrative from "General Repair" to "Functional Anti-ageing" to lower subsconscious friction. |
-| `Recovery Roadmap` |  | **Growth Acceleration**: The final executive roadmap tp recapture market share through SKU discipline and niche trageting. |
+| `Recovery Roadmap` | ![Objective](/images/Slide28.jpeg) | **Growth Acceleration**: The final executive roadmap tp recapture market share through SKU discipline and niche trageting. |
 
 ## Final Recommendations
 * **Recentre on Efficacy**: Reposition ANR to tackle the "Anti-Ageing" niche to compete with high-efficacy mass rivals.
