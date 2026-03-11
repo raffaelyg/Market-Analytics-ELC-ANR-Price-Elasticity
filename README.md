@@ -21,15 +21,15 @@ By analysing Kantar Worldpanel single-source data, we identified three invisible
 ## 🖼️ Portfolio Showcase ##
 | Focus Area | Description | Key Executive Insights |
 | --- | --- | --- |
-| `Project Objective` | ![Objective](Objective) | **The "One Question"**: Defining the objective to manage price increases while protecting prestige loyalty. |
-| `Traction Centre` | ![Traction Centre](Objective) | **Market Shift**: Identifying that "High-Efficacy Creams" are replacing Serums as the primary recruitment driver. |
-| `Competitor Threat` | ![Competitor Threat](Objective) | **The Rise of Local Rivals**: Mapping the rapid growth of "Efficacy-first" brands like Proya and QuadHA (+120% growth). |
-| `Outflow Analysis` | ![Outflow Analysis](Objective) | **The "Say-Do" Gap**: Visualising the 35% of buyers who say they love the brand but do switch to mass competitors. |
-| `Growth Attribution` | ![Growth Attribution](Objective) | **Value vs. Volume**: Proving that declining average prices, not loss of buyers, is the primary barrier to growth.|
-| `Price Elasticity` | ![Price Elasticity](Objective) | **Optimal Pricing**: Identifying the 960元 "Sweet Spot" to maximise revenue without catastrophic volume loss. |
-| ‘Promotion Habits' | ![Promotion Habits](Objective) | **The 50mL Sweet Spot**: Mathematically proving that the 50mL SKU is the most efficent driver of long-term loyalty. |
-| 'The "New Matrix"' | ![The "New Matrix"](Objective) | **Strategic Pivot**: Moving the narrative from "General Repair" to "Functional Anti-ageing" to lower subsconscious friction. |
-| 'Recovery Roadmap' | ![Recovery Roadmap](Objective) | **Growth Acceleration**: The final executive roadmap tp recapture market share through SKU discipline and niche trageting. |
+| `Project Objective` | ![Objective](/images/Slide5.jpeg) | **The "One Question"**: Defining the objective to manage price increases while protecting prestige loyalty. |
+| `Traction Centre` | ![Traction Centre](/images/Slide6.jpeg) | **Market Shift**: Identifying that "High-Efficacy Creams" are replacing Serums as the primary recruitment driver. |
+| `Competitor Threat` | ![Competitor Threat](/images/Slide7.jpeg) | **The Rise of Local Rivals**: Mapping the rapid growth of "Efficacy-first" brands like Proya and QuadHA (+120% growth). |
+| `Outflow Analysis` | ![Outflow Analysis](/images/Slide16.jpeg) | **The "Say-Do" Gap**: Visualising the 35% of buyers who say they love the brand but do switch to mass competitors. |
+| `Growth Attribution` | ![Growth Attribution](/images/Slide17.jpeg) | **Value vs. Volume**: Proving that declining average prices, not loss of buyers, is the primary barrier to growth.|
+| `Price Elasticity` | ![Price Elasticity](/images/Slide23.jpeg) | **Optimal Pricing**: Identifying the 960元 "Sweet Spot" to maximise revenue without catastrophic volume loss. |
+| `Promotion Habits` | ![Promotion Habits](/images/Slide25.jpeg) | **The 50mL Sweet Spot**: Mathematically proving that the 50mL SKU is the most efficent driver of long-term loyalty. |
+| `The "New Matrix"` | ![The "New Matrix"](/images/Slide18.jpeg) ![Recovery Roadmap](/images/Slide19.jpeg) | **Strategic Pivot**: Moving the narrative from "General Repair" to "Functional Anti-ageing" to lower subsconscious friction. |
+| `Recovery Roadmap` | ![Recovery Roadmap](/images/Slide26.jpeg) ![Recovery Roadmap](/images/Slide27.jpeg)| **Growth Acceleration**: The final executive roadmap tp recapture market share through SKU discipline and niche trageting. |
 
 ## Final Recommendations
 * **Recentre on Efficacy**: Reposition ANR to tackle the "Anti-Ageing" niche to compete with high-efficacy mass rivals.
