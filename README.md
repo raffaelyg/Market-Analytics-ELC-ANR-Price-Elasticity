@@ -9,6 +9,18 @@ Traditional research showed high brand affinity, yet sales were slowing. We aske
 
 > **"What specific 'Moment of Struggle' triggers a loyal prestige buyer to adopt a mass-market competitor, and how is our own promotion strategy grooming this behaviour?"**
 
+## 🔧 The Project Meta
+| Category | Key Facts |
+| --- | --- |
+| **Primary Data** | Kantar Worldpanel (Continuous Household Scanning) |
+| **Sample Scope** | Urban area of Mainland China (20 Provinces, 4 Municipalities)
+| **Market Depth** | Tier 1 (Key Cities) to Tier 5 (D-Cities)|
+| **Target Segmnet** | Females, 15-64 years old |
+| **Methodology** | Price Elasticity Modelling Scikit-learn, Buyer Outflow Analysis, SKU Optimization |
+| **Platforms & Software** | Python, Excel, PowerView (propriertory database software) |
+| **Core Framework** | Behavioural Economics: "Say-Do" Gap & Habit Loops
+| **Key Finding** | 50mL SKU Revenue Peak; 960 Yuan Optimial Price Threshold |
+
 ## 🧠 Strategic Insights: The "Say-Do" Gap
 By analysing Kantar Worldpanel single-source data, we identified three invisible barriers to growth:
 
