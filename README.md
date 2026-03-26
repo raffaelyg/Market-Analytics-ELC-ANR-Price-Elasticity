@@ -78,7 +78,7 @@ The Data Science Team and I collaboratively built a price sensitivity model usin
 
 ## Portfolio Showcase
 
-The engagement produced a 9-slide strategic presentation:
+The engagement produced a 150 strategic presentation: here are some cool samples.
 
 | # | Focus Area | Analytical Contribution |
 |---|---|---|
@@ -104,6 +104,5 @@ This project was completed as part of a strategic consulting engagement. All cli
 
 **Analyst:** Raffael (Yuliang) Gao
 **Location:** Toronto, ON, Canada
-**Home Page:** [www.raffaelyg.com](http://www.raffaelyg.com)
 **GitHub:** [github.com/raffaelyg](https://github.com/raffaelyg)
 **LinkedIn:** [linkedin.com/in/raffaelyg](https://linkedin.com/in/raffaelyg)
